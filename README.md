@@ -11,11 +11,8 @@ Passionate Full-stack Developer and Game Design enthusiast from Brazil, currentl
     💻 Full-stack Developer with a keen eye for UI/UX design
     🌐 Multilingual tech innovator bridging cultures and code
 
-# 🔧 Main technologies:
-  💡 Programming
-    ![Tecnologies](https://skillicons.dev/icons?i=typescript,nodejs,angular,react,c,cs,cpp,css,pycharm,linux,bash,git)  
-  🌍 Gaming Development
-    ![Tecnologies](https://skillicons.dev/icons?i=blender,unity,gamemakerstudio)
+# 🔧 Technologies:
+    ![Tecnologies](https://skillicons.dev/icons?i=typescript,nodejs,angular,react,c,cs,cpp,css,pycharm,linux,bash,git,blender,unity,gamemakerstudio)  
 
 
 ## 📲 Contact me
