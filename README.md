@@ -14,7 +14,8 @@ Passionate Full-stack Developer and Game Design enthusiast from Brazil, currentl
     🤖 Aspiring AI engineer, driven by the intersection of technology and sustainable agriculture.  
 
 ## 🔧 Technologies:
-   ![Tecnologies](https://skillicons.dev/icons?i=typescript,nodejs,angular,react,c,cs,cpp,css,pycharm,linux,bash,git,blender,unity,unreal,gamemakerstudio,figma,cmake,docker,dotnet,firebase,github,html,idea,kotlin,matlab,mongodb,nextjs,npm,pnpm,obsidian,postgres,postman,prisma,py,react,replit,sass,stackoverflow,sublime,swift,threejs,ubuntu,vite,vscode,visualstudio,webpack,windows,wordpress,tailwind,regex,powershell,notion)  
+![Technologies](https://skillicons.dev/icons?i=ts,js,html,css,sass,tailwind,react,nextjs,angular,vue,cpp,c,cs,py,kotlin,swift,matlab,nodejs,dotnet,prisma,cmake,webpack,vite,npm,pnpm,docker,firebase,postgres,mongodb,git,github,postman,bash,powershell,linux,ubuntu,windows,replit,vscode,visualstudio,pycharm,idea,sublime,figma,blender,unity,unreal,gamemakerstudio,threejs,wordpress,notion,obsidian,stackoverflow,regex)
+  
 
 
 ## 📲 Contact me
