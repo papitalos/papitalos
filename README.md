@@ -7,12 +7,14 @@
 Passionate Full-stack Developer and Game Design enthusiast from Brazil, currently living in Braga, Portugal. I'm on a mission to revolutionize technology while creating meaningful human connections! 💡🌍
 
 ## 🎓 Professional Journey
-    🎮 Digital Game Engineering Student at IPCA (Instituto Politécnico do Cávado e Ave)
-    💻 Full-stack Developer with a keen eye for UI/UX design
-    🌐 Multilingual tech innovator bridging cultures and code
+    🧑‍🎓 Started as a curious teenager exploring different markets — from sneaker sales to Shopify dropshipping.  
+    💡 Discovered a true passion for technology and shifted focus to programming.  
+    🎮 Graduated in Digital Game Engineering at IPCA (Instituto Politécnico do Cávado e do Ave).  
+    💻 Currently working in different projects  as a full-stack developer with strong attention to UI/UX.  
+    🤖 Aspiring AI engineer, driven by the intersection of technology and sustainable agriculture.  
 
 ## 🔧 Technologies:
-   ![Tecnologies](https://skillicons.dev/icons?i=typescript,nodejs,angular,react,c,cs,cpp,css,pycharm,linux,bash,git,blender,unity,gamemakerstudio)  
+   ![Tecnologies](https://skillicons.dev/icons?i=typescript,nodejs,angular,react,c,cs,cpp,css,pycharm,linux,bash,git,blender,unity,unreal,gamemakerstudio,figma,cmake,docker,dotnet,firebase,github,html,idea,kotlin,matlab,mongodb,nextjs,npm,pnpm,obsidian,postgres,postman,prisma,py,react,replit,sass,stackoverflow,sublime,swift,threejs,ubuntu,vite,vscode,visualstudio,webpack,windows,wordpress,tailwind,regex,powershell,notion)  
 
 
 ## 📲 Contact me
