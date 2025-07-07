@@ -17,7 +17,7 @@ Passionate Full-stack Developer and Game Design enthusiast from Brazil, currentl
 ![Technologies](https://skillicons.dev/icons?i=py,c,cpp,matlab,pycharm)
 
 ## ⚡️ Currently Working  On:
-![Technologies](https://skillicons.dev/icons?i=typescript,angular,html,sass,nodejs,npm,pnpm,docker,postgres,github)
+![Technologies](https://skillicons.dev/icons?i=html,sass,typescript,angular,nodejs,pnpm,docker,postgres)
 
 ## 🔧 All Technologies:
 ![Technologies](https://skillicons.dev/icons?i=ts,js,html,css,sass,tailwind,react,nextjs,angular,kotlin,swift,cpp,c,cs,py,matlab,nodejs,dotnet,prisma,cmake,webpack,vite,npm,pnpm,docker,firebase,postgres,mongodb,git,github,postman,bash,powershell,linux,ubuntu,windows,replit,vscode,visualstudio,pycharm,idea,sublime,figma,blender,unity,unreal,gamemakerstudio,threejs,wordpress,notion,obsidian,stackoverflow,regex)
