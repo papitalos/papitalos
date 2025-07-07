@@ -14,7 +14,7 @@ Passionate Full-stack Developer and Game Design enthusiast from Brazil, currentl
     🤖 Aspiring AI engineer, driven by the intersection of technology and sustainable agriculture.  
 
 ## 🧠 Currently Focusing On:
-![Technologies](https://skillicons.dev/icons?i=py,c,c++,matlab,shell)
+![Technologies](https://skillicons.dev/icons?i=py,c,cpp,matlab,pycharm)
   
 
 ## 🔧 All Technologies:
