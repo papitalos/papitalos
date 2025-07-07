@@ -13,9 +13,11 @@ Passionate Full-stack Developer and Game Design enthusiast from Brazil, currentl
     💻 Currently working in different projects  as a full-stack developer with strong attention to UI/UX.  
     🤖 Aspiring AI engineer, driven by the intersection of technology and sustainable agriculture.  
 
-## 🧠 Currently Focusing On:
+## 🧠 Currently Studing On:
 ![Technologies](https://skillicons.dev/icons?i=py,c,cpp,matlab,pycharm)
-  
+
+## ⚡️ Currently Working  On:
+![Technologies](https://skillicons.dev/icons?i=typescript,angular,html,sass,nodejs,npm,pnpm,dpcker,postgres,github)
 
 ## 🔧 All Technologies:
 ![Technologies](https://skillicons.dev/icons?i=ts,js,html,css,sass,tailwind,react,nextjs,angular,kotlin,swift,cpp,c,cs,py,matlab,nodejs,dotnet,prisma,cmake,webpack,vite,npm,pnpm,docker,firebase,postgres,mongodb,git,github,postman,bash,powershell,linux,ubuntu,windows,replit,vscode,visualstudio,pycharm,idea,sublime,figma,blender,unity,unreal,gamemakerstudio,threejs,wordpress,notion,obsidian,stackoverflow,regex)
